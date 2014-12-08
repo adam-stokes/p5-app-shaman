@@ -1,0 +1,7 @@
+#!/usr/bin/env perl
+
+# PODNAME: shaman
+# ABSTRACT: shaman
+
+use App::shaman;
+App::shaman->run;
